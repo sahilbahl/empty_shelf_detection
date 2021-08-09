@@ -1,1 +1,1 @@
-# empty_shelf_detection
+Machine Learning model built to detect empty shelves in images
